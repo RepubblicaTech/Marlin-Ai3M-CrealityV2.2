@@ -1976,8 +1976,8 @@
 // @section geometry
 
 // The size of the printable area
-#define X_BED_SIZE 220 // Nozzle is at X4 when homed
-#define Y_BED_SIZE 220 // Nozzle is at Y2 when homed
+#define X_BED_SIZE 210 // Nozzle is at X4 when homed
+#define Y_BED_SIZE 210 // Nozzle is at Y2 when homed
 
 // Travel limits (linear=mm, rotational=°) after homing, corresponding to endstop positions.
 #define X_MIN_POS 0
